@@ -1,1 +1,1 @@
-Desafío Git para probar habilidades - Autor Romina Velasco
+Git practica primeros pasos - Autor rgvelasco
